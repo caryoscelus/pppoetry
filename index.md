@@ -8,3 +8,4 @@ title: poetry
 - [я для себя](text/ya-dlya-sebya.html)
 - [кленовый лист](text/klenoviy-list.html)
 - [обрывки чьих-то чувств](text/obryvki-chuvstv.md)
+- [веник](text/venik.html)
