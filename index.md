@@ -9,3 +9,4 @@ title: poetry
 - [кленовый лист](text/klenoviy-list.html)
 - [обрывки чьих-то чувств](text/obryvki-chuvstv.md)
 - [веник](text/venik.html)
+- [смешно опять](text/smeshno-opyat.md)
