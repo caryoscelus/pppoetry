@@ -11,3 +11,4 @@ title: poetry
 - [веник](text/venik.html)
 - [смешно опять](text/smeshno-opyat.html)
 - [стекло](text/steklo.html)
+- [маразм крепчал](text/marazm.html)
