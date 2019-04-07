@@ -12,3 +12,4 @@ title: poetry
 - [смешно опять](text/smeshno-opyat.html)
 - [стекло](text/steklo.html)
 - [маразм крепчал](text/marazm.html)
+- [сново](text/snovo.html)
