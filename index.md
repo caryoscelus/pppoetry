@@ -13,4 +13,5 @@ title: poetry
 - [стекло](text/steklo.html)
 - [маразм крепчал](text/marazm.html)
 - [сново](text/snovo.html)
-- [моя ночь (and translations)](text/my-night.html)
+- [моя ночь (with translations)](text/my-night.html)
+- [из-за угла](text/iz-za-ugla.html)
