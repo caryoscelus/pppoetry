@@ -16,3 +16,4 @@ title: poetry
 - [моя ночь (with translations)](text/my-night.html)
 - [из-за угла](text/iz-za-ugla.html)
 - [ты для краткости](text/ty-dlya-kratkosti.html)
+- [пустые небеса](text/pustye-nebesa.html)
