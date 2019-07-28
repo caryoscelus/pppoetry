@@ -20,8 +20,8 @@ title: poetry
 
 переводы
 
-- [осенедень (Райнер Мария Рильке)]
+- [осенедень (Райнер Мария Рильке)](text/rilke/herbsttag-ru.html)
 
 translations
 
-- [voice from a choir (Alexander Blok)]
+- [voice from a choir (Alexander Blok)](text/block/golos-iz-khora-en.html)
