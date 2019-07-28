@@ -18,6 +18,10 @@ title: poetry
 - [ты для краткости](text/ty-dlya-kratkosti.html)
 - [пустые небеса](text/pustye-nebesa.html)
 
+переводы
+
+- [осенедень (Райнер Мария Рильке)]
+
 translations
 
 - [voice from a choir (Alexander Blok)]
