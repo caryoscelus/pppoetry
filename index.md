@@ -24,4 +24,4 @@ title: poetry
 
 translations
 
-- [voice from a choir (Alexander Blok)](text/block/golos-iz-khora-en.html)
+- [voice from a choir (Alexander Blok)](text/blok/golos-iz-khora-en.html)
