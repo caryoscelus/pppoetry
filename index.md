@@ -18,6 +18,7 @@ title: poetry
 - [ты для краткости](text/ty-dlya-kratkosti.html)
 - [пустые небеса](text/pustye-nebesa.html)
 - [ластиком](text/lastikom.html)
+- [повторяются куплеты](text/povtoryayutsa-kuplety.html)
 
 переводы
 
