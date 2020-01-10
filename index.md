@@ -19,6 +19,7 @@ title: poetry
 - [пустые небеса](text/pustye-nebesa.html)
 - [ластиком](text/lastikom.html)
 - [повторяются куплеты](text/povtoryayutsa-kuplety.html)
+- [быть иль не быть](text/byt-il-ne-byt.html)
 
 переводы
 
