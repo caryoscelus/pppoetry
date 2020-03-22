@@ -20,6 +20,7 @@ title: poetry
 - [ластиком](text/lastikom.html)
 - [повторяются куплеты](text/povtoryayutsa-kuplety.html)
 - [быть иль не быть](text/byt-il-ne-byt.html)
+- [утка](text/ukta.html)
 
 переводы
 
