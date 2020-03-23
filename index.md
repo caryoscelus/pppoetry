@@ -22,6 +22,7 @@ title: poetry
 - [быть иль не быть](text/byt-il-ne-byt.html)
 - [утка](text/ukta.html)
 - [затем](text/zatem.html)
+- [ананас](text/ananas.html)
 
 переводы
 
