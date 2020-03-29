@@ -23,6 +23,7 @@ title: poetry
 - [утка](text/utka.html)
 - [затем](text/zatem.html)
 - [ананас](text/ananas.html)
+- [я видел будущее](text/ya-videl-budushee.html)
 
 переводы
 
