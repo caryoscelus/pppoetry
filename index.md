@@ -24,6 +24,7 @@ title: poetry
 - [затем](text/zatem.html)
 - [ананас](text/ananas.html)
 - [я видел будущее](text/ya-videl-budushee.html)
+- [я выпью](text/ya-vipyu.html)
 
 переводы
 
