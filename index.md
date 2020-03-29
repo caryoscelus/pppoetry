@@ -20,7 +20,7 @@ title: poetry
 - [ластиком](text/lastikom.html)
 - [повторяются куплеты](text/povtoryayutsa-kuplety.html)
 - [быть иль не быть](text/byt-il-ne-byt.html)
-- [утка](text/ukta.html)
+- [утка](text/utka.html)
 - [затем](text/zatem.html)
 - [ананас](text/ananas.html)
 
