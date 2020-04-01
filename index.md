@@ -26,7 +26,8 @@ title: poetry
 - [я видел будущее](text/ya-videl-budushee.html)
 - [я выпью](text/ya-vipyu.html)
 - [всё когда-нибудь кончится](text/vsyo-kogda-nibud-konchitsya.html)
-- [синяя лампочка](sinyaya-lampochka.html)
+- [синяя лампочка](text/sinyaya-lampochka.html)
+- [я иду спокойно по холодной улице](text/ya-idu.md)
 
 переводы
 
