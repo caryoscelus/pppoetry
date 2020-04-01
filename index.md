@@ -24,7 +24,7 @@ title: poetry
 - [затем](text/zatem.html)
 - [ананас](text/ananas.html)
 - [я видел будущее](text/ya-videl-budushee.html)
-- [я выпью](text/ya-vipyu.html)
+- [я выпью](text/ya-vipyu.html) (eng: [i'll drink](text/i-ll-drink.html))
 - [всё когда-нибудь кончится](text/vsyo-kogda-nibud-konchitsya.html)
 - [синяя лампочка](text/sinyaya-lampochka.html)
 - [я иду спокойно по холодной улице](text/ya-idu.html)
