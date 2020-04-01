@@ -27,7 +27,8 @@ title: poetry
 - [я выпью](text/ya-vipyu.html)
 - [всё когда-нибудь кончится](text/vsyo-kogda-nibud-konchitsya.html)
 - [синяя лампочка](text/sinyaya-lampochka.html)
-- [я иду спокойно по холодной улице](text/ya-idu.md)
+- [я иду спокойно по холодной улице](text/ya-idu.html)
+- [герой облаков](text/geroy-oblakov.html)
 
 переводы
 
