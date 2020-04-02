@@ -29,6 +29,7 @@ title: poetry
 - [синяя лампочка](text/sinyaya-lampochka.html)
 - [я иду спокойно по холодной улице](text/ya-idu.html)
 - [герой облаков](text/geroy-oblakov.html)
+- [я сегодня проснулся](text/ya-prosnulsya.html)
 
 переводы
 
