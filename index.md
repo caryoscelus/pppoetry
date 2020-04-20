@@ -31,6 +31,7 @@ title: poetry
 - [герой облаков](text/geroy-oblakov.html)
 - [я сегодня проснулся](text/ya-prosnulsya.html)
 - [снова этот город](text/snova-etot-gorod.html)
+- [please make me feel](text/please-make-me-feel.html)
 
 переводы
 
