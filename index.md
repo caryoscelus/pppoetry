@@ -32,6 +32,7 @@ title: poetry
 - [я сегодня проснулся](text/ya-prosnulsya.html)
 - [снова этот город](text/snova-etot-gorod.html)
 - [please make me feel](text/please-make-me-feel.html)
+- [тимьян](text/timyan.html)
 
 переводы
 
