@@ -33,6 +33,7 @@ title: poetry
 - [снова этот город](text/snova-etot-gorod.html)
 - [please make me feel](text/please-make-me-feel.html)
 - [тимьян](text/timyan.html)
+- [автор мёртв](text/avtor-myortv.html)
 
 переводы
 
