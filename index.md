@@ -34,6 +34,7 @@ title: poetry
 - [please make me feel](text/please-make-me-feel.html)
 - [тимьян](text/timyan.html)
 - [автор мёртв](text/avtor-myortv.html)
+- [нахально](text/nakhalno.html)
 
 переводы
 
