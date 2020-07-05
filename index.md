@@ -35,6 +35,7 @@ title: poetry
 - [тимьян](text/timyan.html)
 - [автор мёртв](text/avtor-myortv.html)
 - [нахально](text/nakhalno.html)
+- [тебе идёт война](text/tebe-idyot-voyna.html)
 
 переводы
 
