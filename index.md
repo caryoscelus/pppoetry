@@ -39,6 +39,7 @@ title: poetry
 - [осторожно, двадцатые](text/ostorozhno-dvadcatiye.html)
 - [навсегда](text/navsegda.html)
 - [это ещё не конец](text/eto-esho-ne-konec.html)
+- [мы смирились](text/my-smirilis.html)
 
 переводы
 
