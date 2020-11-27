@@ -38,6 +38,7 @@ title: poetry
 - [тебе идёт война](text/tebe-idyot-voyna.html)
 - [осторожно, двадцатые](text/ostorozhno-dvadcatiye.html)
 - [навсегда](text/navsegda.html)
+- [это ещё не конец](text/eto-esho-ne-konec.html)
 
 переводы
 
