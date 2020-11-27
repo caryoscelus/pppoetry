@@ -37,6 +37,7 @@ title: poetry
 - [нахально](text/nakhalno.html)
 - [тебе идёт война](text/tebe-idyot-voyna.html)
 - [осторожно, двадцатые](text/ostorozhno-dvadcatiye.html)
+- [навсегда](text/navsegda.html)
 
 переводы
 
