@@ -40,6 +40,7 @@ title: poetry
 - [навсегда](text/navsegda.html)
 - [это ещё не конец](text/eto-esho-ne-konec.html)
 - [мы смирились](text/my-smirilis.html)
+- [ваш до сома](text/vash-do-soma.html)
 
 переводы
 
