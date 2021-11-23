@@ -41,6 +41,7 @@ title: poetry
 - [это ещё не конец](text/eto-esho-ne-konec.html)
 - [мы смирились](text/my-smirilis.html)
 - [ваш до сома](text/vash-do-soma.html)
+- [фрэнды](text/frendi.html)
 
 переводы
 
