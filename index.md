@@ -44,6 +44,7 @@ title: poetry
 - [фрэнды](text/frendi.html)
 - [пять букв](text/pyat-bukv.html)
 - [чёрный и белый](text/chorniy-i-beliy.html)
+- [тишина](text/tishina.html)
 
 переводы
 
