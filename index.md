@@ -42,6 +42,7 @@ title: poetry
 - [мы смирились](text/my-smirilis.html)
 - [ваш до сома](text/vash-do-soma.html)
 - [фрэнды](text/frendi.html)
+- [пять букв](text/pyat-bukv.html)
 
 переводы
 
