@@ -45,6 +45,7 @@ title: poetry
 - [пять букв](text/pyat-bukv.html)
 - [чёрный и белый](text/chorniy-i-beliy.html)
 - [тишина](text/tishina.html)
+- [бывает](text/bivayet.html)
 
 переводы
 
