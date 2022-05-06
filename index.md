@@ -46,6 +46,7 @@ title: poetry
 - [чёрный и белый](text/chorniy-i-beliy.html)
 - [тишина](text/tishina.html)
 - [бывает](text/bivayet.html)
+- [щепотка соли](text/shepotka-soli.html)
 
 переводы
 
