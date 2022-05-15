@@ -47,6 +47,7 @@ title: poetry
 - [тишина](text/tishina.html)
 - [бывает](text/bivayet.html)
 - [щепотка соли](text/shepotka-soli.html)
+- [in this early night](text/in-this-early-night.html)
 
 переводы
 
