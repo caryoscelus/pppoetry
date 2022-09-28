@@ -48,6 +48,7 @@ title: poetry
 - [бывает](text/bivayet.html)
 - [щепотка соли](text/shepotka-soli.html)
 - [in this early night](text/in-this-early-night.html)
+- [привет](text/privet.html)
 
 переводы
 
