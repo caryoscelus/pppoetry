@@ -49,6 +49,7 @@ title: poetry
 - [щепотка соли](text/shepotka-soli.html)
 - [in this early night](text/in-this-early-night.html)
 - [привет](text/privet.html)
+- [злобный мальчик](text/zlobniy-malchik.html)
 
 переводы
 
