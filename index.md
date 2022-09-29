@@ -50,6 +50,7 @@ title: poetry
 - [in this early night](text/in-this-early-night.html)
 - [привет](text/privet.html)
 - [злобный мальчик](text/zlobniy-malchik.html)
+- [закавказское](text/zakavkazskoye.html)
 
 переводы
 
