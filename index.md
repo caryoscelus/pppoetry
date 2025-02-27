@@ -52,6 +52,7 @@ title: poetry
 - [злобный мальчик](text/zlobniy-malchik.html)
 - [закавказское](text/zakavkazskoye.html)
 - [it's (not) been a while](text/its-been.html)
+- [ты (я) не, ***](text/ty-ne.html)
 
 переводы
 
