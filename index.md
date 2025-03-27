@@ -61,3 +61,4 @@ title: poetry
 translations
 
 - [voice from a choir (Alexander Blok)](text/blok/golos-iz-khora-en.html)
+- [was it me who stayed with you (Anna Akhmatova)](text/akhmatova/was-it-me.html)
