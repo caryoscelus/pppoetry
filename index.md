@@ -53,6 +53,11 @@ title: poetry
 - [закавказское](text/zakavkazskoye.html)
 - [it's (not) been a while](text/its-been.html)
 - [ты (я) не, ***](text/ty-ne.html)
+- [критически](text/kriticheski.html)
+- [exp](text/exp.html)
+- [её](text/yeyo.html)
+- [не единственный](text/ne-yedinstvenniy.html)
+- [украдкой](text/ukradkoy.html)
 
 переводы
 
